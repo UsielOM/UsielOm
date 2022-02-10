@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usiel Orihuela Monroy</h1>
 <h3 align="center">Soy solo un joven en busca de conocimiento en este mundo tecnológico, siempre puedo aprender algo nuevo cada día, mi único limite es mi propia imaginación,</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
